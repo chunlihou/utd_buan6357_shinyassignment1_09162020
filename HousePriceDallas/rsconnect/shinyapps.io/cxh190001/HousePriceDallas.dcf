@@ -1,0 +1,12 @@
+name: HousePriceDallas
+title: HousePriceDallas
+username:
+account: cxh190001
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2825840
+bundleId: 3637461
+url: https://cxh190001.shinyapps.io/HousePriceDallas/
+when: 1600303853.37165
+asMultiple: FALSE
+asStatic: FALSE
