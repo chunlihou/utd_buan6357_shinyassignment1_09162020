@@ -1,4 +1,5 @@
-# UTD - BUAN6357 - Advanced Business Analytics with R - Shiny Assignment
+# ABOUT
 
-This project is published at:  
+- UTD - BUAN6357 - Advanced Business Analytics with R - Shiny Assignment
+- This project is published at:  
 LINK
